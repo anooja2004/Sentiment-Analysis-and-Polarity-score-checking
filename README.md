@@ -1,0 +1,5 @@
+This project focuses on performing sentiment analysis on textual data using Natural Language Processing (NLP) techniques. The system analyzes user-provided text, calculates polarity scores, and classifies the sentiment into Positive, Negative, or Neutral categories. It helps in understanding the emotional tone expressed in text data.
+
+The project uses Python along with popular NLP libraries such as Pandas, NLTK, TextBlob, and VADER. Text preprocessing steps like tokenization, stopword removal, and punctuation cleaning are applied before analysis. Sentiment polarity is computed using TextBlob, while VADER provides an additional rule-based sentiment evaluation for improved accuracy.
+
+The final output includes sentiment labels, polarity scores, and visualizations such as bar charts and pie charts to show sentiment distribution. This project can be applied to product reviews, student feedback, movie reviews, and social media comments, making it suitable for academic learning and real-world sentiment analysis tasks.
